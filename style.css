@@ -32,6 +32,7 @@ body {
   background-position: left top -30rem, right bottom -30rem;
   background-repeat: no-repeat, no-repeat;
   background-size: contain, contain;
+  background-attachment: local, local;
 }
 
 .card {
